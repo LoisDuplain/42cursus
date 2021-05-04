@@ -2,7 +2,7 @@
 <p align="left">
 	Libft is the first 42 project. This a C library with 34 functions.
 	<br>
-	You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft repository</a>
+	You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft</a>
 </p>
 <p align="left">
 	<a href="https://github.com/LoisDuplain/libft/">Repository</a>
@@ -40,6 +40,18 @@
 <p align="left">
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/ft_printf"/>
+</p>
+
+<h2 align="left">netwhat</h2>
+<p align="left">
+	Multiple questions on network.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/netwhat/netwhat.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/netwhat"/>
 </p>
 
 <h2 align="left">cub3D</h2>
