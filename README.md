@@ -30,3 +30,14 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/ft_printf"/>
 </p>
+
+<h2 align="left">cub3D</h2>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/cub3D/">Repository</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/cub3D/cub3D.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/cub3d"/>
+</p>
