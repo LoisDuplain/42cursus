@@ -1,3 +1,6 @@
+<h2 align="left">My piscine</h2>
+<img src="https://badge42.herokuapp.com/api/stats/lduplain?darkmode=true"/>
+
 <h2 align="left">libft</h2>
 <p align="left">
 	Libft is the first 42 project. This a C library with 34 functions.
