@@ -11,7 +11,7 @@
 
 <h2 align="left">gnl</h2>
 <p align="left">
-	<a href="https://github.com/LoisDuplain/gnl/">Repository</a>
+	<a href="https://github.com/LoisDuplain/gnl/">Repository (Not available for the moment)</a>
 	-
 	<a href="https://github.com/LoisDuplain/42cursus/blob/master/gnl/gnl.pdf">Subject</a>
 </p>
@@ -22,7 +22,7 @@
 
 <h2 align="left">printf</h2>
 <p align="left">
-	<a href="https://github.com/LoisDuplain/printf/">Repository</a>
+	<a href="https://github.com/LoisDuplain/printf/">Repository (Not available for the moment)</a>
 	-
 	<a href="https://github.com/LoisDuplain/42cursus/blob/master/printf/printf.pdf">Subject</a>
 </p>
