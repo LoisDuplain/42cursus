@@ -19,3 +19,14 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/get_next_line"/>
 </p>
+
+<h2 align="left">printf</h2>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/printf/">Repository</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/printf/printf.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/ft_printf"/>
+</p>
