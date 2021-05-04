@@ -1,4 +1,7 @@
 <h2 align="left">My piscine</h2>
+<img src="https://badge42.herokuapp.com/api/stats/lduplain?darkmode=true&cursus=C%20Piscine"/>
+
+<h2 align="left">My cursus</h2>
 <img src="https://badge42.herokuapp.com/api/stats/lduplain?darkmode=true"/>
 
 <h2 align="left">libft</h2>
