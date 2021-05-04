@@ -1,5 +1,10 @@
 <h2 align="left">libft</h2>
 <p align="left">
+	Libft is the first 42 project. This a C library with 34 functions.
+	<br>
+	You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft repository</a>
+</p>
+<p align="left">
 	<a href="https://github.com/LoisDuplain/libft/">Repository</a>
 	-
 	<a href="https://github.com/LoisDuplain/42cursus/blob/master/libft/libft.pdf">Subject</a>
@@ -10,6 +15,9 @@
 </p>
 
 <h2 align="left">gnl</h2>
+<p align="left">
+	Not available for the moment.
+</p>
 <p align="left">
 	<a href="https://github.com/LoisDuplain/gnl/">Repository (Not available for the moment)</a>
 	-
@@ -22,6 +30,9 @@
 
 <h2 align="left">printf</h2>
 <p align="left">
+	Not available for the moment.
+</p>
+<p align="left">
 	<a href="https://github.com/LoisDuplain/printf/">Repository (Not available for the moment)</a>
 	-
 	<a href="https://github.com/LoisDuplain/42cursus/blob/master/printf/printf.pdf">Subject</a>
@@ -32,6 +43,9 @@
 </p>
 
 <h2 align="left">cub3D</h2>
+<p align="left">
+	Cub3D is a game engine written in C. It is inspired by one of the first FPS Wolfenstein3D.
+</p>
 <p align="left">
 	<a href="https://github.com/LoisDuplain/cub3D/">Repository</a>
 	-
