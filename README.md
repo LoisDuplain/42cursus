@@ -87,3 +87,17 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/minitalk"/>
 </p>
+
+<h2 align="left">🔀 push_swap 📈</h2>
+<p align="left">
+	A sort algorithm using two stacks with a limited set of instructions.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/push_swap/">Repository</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/push_swap/push_swap.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/push_swap"/>
+</p>
