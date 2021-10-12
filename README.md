@@ -36,7 +36,7 @@
 
 <h2 align="left">✍️ printf 🔂</h2>
 <p align="left">
-	Not available for the moment.
+	Recreate a part of the printf C function.
 </p>
 <p align="left">
 	<a href="https://github.com/LoisDuplain/printf/">Repository (Not available for the moment)</a>
