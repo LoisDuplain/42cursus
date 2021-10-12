@@ -20,14 +20,14 @@
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Libft"/>
 </p>
 
-<h2 align="left">📋 gnl 📃</h2>
+<h2 align="left">📋 get_next_line 📃</h2>
 <p align="left">
-	Not available for the moment.
+	Read content line by line on a fd (FILE DESCRIPTOR). It can be use to read a file or STDIN.
 </p>
 <p align="left">
-	<a href="https://github.com/LoisDuplain/gnl/">Repository (Not available for the moment)</a>
+	<a href="https://github.com/LoisDuplain/get_next_line/">Repository</a>
 	-
-	<a href="https://github.com/LoisDuplain/42cursus/blob/master/gnl/gnl.pdf">Subject</a>
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/get_next_line/get_next_line.pdf">Subject</a>
 </p>
 <p align="left">
   Mark:
