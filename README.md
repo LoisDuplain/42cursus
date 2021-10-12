@@ -73,3 +73,17 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/cub3d"/>
 </p>
+
+<h2 align="left">minitalk</h2>
+<p align="left">
+	A small data exchange program using UNIX signals.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/minitalk/">Repository</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/minitalk/minitalk.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/minitalk"/>
+</p>
