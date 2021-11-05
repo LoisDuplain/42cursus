@@ -60,6 +60,22 @@
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/netwhat"/>
 </p>
 
+<h2 align="left">💓 First exam 🔂</h2>
+<p align="left">
+	First, write a program called union that takes two strings and displays, without doubles, the characters that appear in either one of the strings.<br>
+	<br>
+	Secondly, recreate a part of the printf function.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/first-exam/union.txt">union subject</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/first-exam/ft_printf.txt">ft_printf subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Exam-Rank-02"/>
+</p>
+
 <h2 align="left">🧱 cub3D 🎥</h2>
 <p align="left">
 	Cub3D is a game engine written in C. It is inspired by one of the first FPS Wolfenstein3D.
