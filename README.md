@@ -131,3 +131,16 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Philosophers"/>
 </p>
+
+<h2 align="left">✏️ Second exam ⚪</h2>
+<p align="left">
+	Write a program that will read an "operation file" and print the result in the terminal.<br>
+	The "operation file" contains instructions to draw circles in the defined draw zone.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/second-exam/mini_paint.txt">mini_paint subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Exam%20Rank%2003"/>
+</p>
