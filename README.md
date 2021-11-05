@@ -73,7 +73,7 @@
 </p>
 <p align="left">
   Mark:
-  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Exam-Rank-02"/>
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Exam%20Rank%2002"/>
 </p>
 
 <h2 align="left">🧱 cub3D 🎥</h2>
