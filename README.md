@@ -101,3 +101,17 @@
   Mark:
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/push_swap"/>
 </p>
+
+<h2 align="left">👴🏻 philosophers 🍴</h2>
+<p align="left">
+	Philosophers is a simulation project written in C to discover threads and mutexes.
+</p>
+<p align="left">
+	<a href="https://github.com/LoisDuplain/philosophers/">Repository</a>
+	-
+	<a href="https://github.com/LoisDuplain/42cursus/blob/master/philosophers/philosophers.pdf">Subject</a>
+</p>
+<p align="left">
+  Mark:
+  <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Philosophers"/>
+</p>
