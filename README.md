@@ -8,7 +8,7 @@
 <p align="left">
 	Libft is the first 42 project. This a C library with 34 functions.
 	<br>
-	You can found an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft</a>
+	You can find an enhanced version of libft called best-libft here: <a href="https://github.com/LoisDuplain/best-libft">best-libft</a>
 </p>
 <p align="left">
 	<a href="https://github.com/LoisDuplain/libft/">Repository</a>
