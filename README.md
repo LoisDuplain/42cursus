@@ -60,7 +60,7 @@
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/netwhat"/>
 </p>
 
-<h2 align="left">💓 First exam 🔂</h2>
+<h2 align="left">	- 💓 First exam 🔂</h2>
 <p align="left">
 	First, write a program called union that takes two strings and displays, without doubles, the characters that appear in either one of the strings.<br>
 	<br>
@@ -132,7 +132,7 @@
   <img alt="42-project-mark" src="https://badge42.herokuapp.com/api/project/lduplain/Philosophers"/>
 </p>
 
-<h2 align="left">✏️ Second exam ⚪</h2>
+<h2 align="left">	- ✏️ Second exam ⚪</h2>
 <p align="left">
 	Write a program that will read an "operation file" and print the result in the terminal.<br>
 	The "operation file" contains instructions to draw circles in the defined draw zone.
